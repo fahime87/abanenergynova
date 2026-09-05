@@ -1,0 +1,76 @@
+[13-Feb-2026 15:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[13-Feb-2026 15:41:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[23-Feb-2026 20:00:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[23-Feb-2026 20:06:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[24-Jun-2026 08:53:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[24-Jun-2026 08:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[06-Jul-2026 20:00:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[06-Jul-2026 20:08:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[10-Jul-2026 08:07:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[10-Jul-2026 08:13:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[22-Jul-2026 23:05:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[22-Jul-2026 23:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[27-Jul-2026 15:17:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[27-Jul-2026 15:24:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[05-Aug-2026 05:46:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[08-Aug-2026 22:32:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[08-Aug-2026 22:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[14-Aug-2026 11:37:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[14-Aug-2026 11:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24

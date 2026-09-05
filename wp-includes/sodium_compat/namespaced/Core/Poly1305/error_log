@@ -1,0 +1,67 @@
+[13-Feb-2026 15:39:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[13-Feb-2026 15:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[23-Feb-2026 20:05:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[23-Feb-2026 20:10:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Jun-2026 08:58:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Jun-2026 09:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[06-Jul-2026 20:06:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[06-Jul-2026 20:12:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[10-Jul-2026 08:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[10-Jul-2026 08:17:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[22-Jul-2026 23:10:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[22-Jul-2026 23:15:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on[05-Aug-2026 05:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[08-Aug-2026 22:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[08-Aug-2026 22:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[14-Aug-2026 11:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[14-Aug-2026 11:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305_State' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4

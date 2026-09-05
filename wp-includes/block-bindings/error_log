@@ -1,0 +1,159 @@
+[13-Feb-2026 15:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[13-Feb-2026 15:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[13-Feb-2026 15:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[13-Feb-2026 15:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[23-Feb-2026 20:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[23-Feb-2026 20:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[23-Feb-2026 20:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[23-Feb-2026 20:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[24-Jun-2026 08:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[24-Jun-2026 08:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[24-Jun-2026 08:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[24-Jun-2026 08:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[06-Jul-2026 20:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[06-Jul-2026 20:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[06-Jul-2026 20:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[06-Jul-2026 20:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[10-Jul-2026 08:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[10-Jul-2026 08:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[10-Jul-2026 08:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[10-Jul-2026 08:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[22-Jul-2026 23:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[22-Jul-2026 23:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[22-Jul-2026 23:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[22-Jul-2026 23:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[27-Jul-2026 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[27-Jul-2026 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[27-Jul-2026 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[27-Jul-2026 15:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/[05-Aug-2026 05:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[05-Aug-2026 05:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[05-Aug-2026 05:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[05-Aug-2026 05:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[08-Aug-2026 22:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[08-Aug-2026 22:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[08-Aug-2026 22:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[08-Aug-2026 22:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119
+[14-Aug-2026 11:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[14-Aug-2026 11:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-data.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-data.php on line 98
+[14-Aug-2026 11:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[14-Aug-2026 11:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/block-bindings/term-data.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/block-bindings/term-data.php on line 119

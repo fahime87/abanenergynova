@@ -1,0 +1,48 @@
+[05-Aug-2026 05:51:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\SimpleCache\CacheInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php on line 22
+[05-Aug-2026 05:51:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php on line 29
+[05-Aug-2026 05:51:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\Http\Abstracts\AbstractClientDiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php on line 24
+[05-Aug-2026 05:51:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\EventDispatcher\EventDispatcherInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php on line 22
+[08-Aug-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\SimpleCache\CacheInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php on line 22
+[08-Aug-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\Http\Abstracts\AbstractClientDiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php on line 24
+[08-Aug-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\EventDispatcher\EventDispatcherInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php on line 22
+[08-Aug-2026 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php on line 29
+[14-Aug-2026 11:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\SimpleCache\CacheInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-cache.php on line 22
+[14-Aug-2026 11:39:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\Http\Abstracts\AbstractClientDiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-discovery-strategy.php on line 24
+[14-Aug-2026 11:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\EventDispatcher\EventDispatcherInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-event-dispatcher.php on line 22
+[14-Aug-2026 11:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientInterface' not found in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/ai-client/adapters/class-wp-ai-client-http-client.php on line 29

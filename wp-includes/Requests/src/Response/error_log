@@ -1,0 +1,68 @@
+[13-Feb-2026 15:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[13-Feb-2026 15:41:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[23-Feb-2026 20:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[23-Feb-2026 20:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[24-Jun-2026 08:53:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[24-Jun-2026 08:59:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[06-Jul-2026 20:00:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[06-Jul-2026 20:08:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[10-Jul-2026 08:07:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[10-Jul-2026 08:13:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[22-Jul-2026 23:05:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[22-Jul-2026 23:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[27-Jul-2026 15:17:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/R[05-Aug-2026 05:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[08-Aug-2026 22:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[08-Aug-2026 22:40:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[14-Aug-2026 11:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[14-Aug-2026 11:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/Requests/src/Response/Headers.php on line 20

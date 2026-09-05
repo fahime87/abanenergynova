@@ -1,0 +1,72 @@
+[05-Aug-2026 05:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php on line 15
+[05-Aug-2026 05:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UploadedFileInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php on line 15
+[05-Aug-2026 05:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UriInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php on line 18
+[05-Aug-2026 05:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\StreamInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php on line 14
+[05-Aug-2026 05:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ServerRequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php on line 17
+[05-Aug-2026 05:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ResponseInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php on line 15
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php on line 15
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ResponseInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php on line 15
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ServerRequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php on line 17
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\StreamInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php on line 14
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UploadedFileInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php on line 15
+[08-Aug-2026 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UriInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php on line 18
+[14-Aug-2026 11:45:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Request.php on line 15
+[14-Aug-2026 11:45:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ResponseInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Response.php on line 15
+[14-Aug-2026 11:45:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\ServerRequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/ServerRequest.php on line 17
+[14-Aug-2026 11:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\StreamInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Stream.php on line 14
+[14-Aug-2026 11:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UploadedFileInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/UploadedFile.php on line 15
+[14-Aug-2026 11:45:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\UriInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Uri.php on line 18

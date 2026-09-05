@@ -1,0 +1,71 @@
+[13-Feb-2026 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[13-Feb-2026 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[23-Feb-2026 20:05:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[23-Feb-2026 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[24-Jun-2026 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[24-Jun-2026 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Jul-2026 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Jul-2026 20:13:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[10-Jul-2026 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[10-Jul-2026 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[22-Jul-2026 23:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[22-Jul-2026 23:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[27-Jul-2026 15:22:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php[05-Aug-2026 05:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Aug-2026 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[08-Aug-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Aug-2026 11:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[14-Aug-2026 11:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

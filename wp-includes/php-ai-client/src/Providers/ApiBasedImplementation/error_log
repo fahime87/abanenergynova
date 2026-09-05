@@ -1,0 +1,60 @@
+[05-Aug-2026 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\AbstractProvider' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php on line 16
+[05-Aug-2026 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ModelMetadataDirectoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php on line 21
+[05-Aug-2026 05:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php on line 23
+[05-Aug-2026 05:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\ApiBasedImplementation\Contracts\ApiBasedModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php on line 23
+[05-Aug-2026 05:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php on line 18
+[08-Aug-2026 22:37:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\ApiBasedImplementation\Contracts\ApiBasedModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php on line 23
+[08-Aug-2026 22:37:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ModelMetadataDirectoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php on line 21
+[08-Aug-2026 22:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\AbstractProvider' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php on line 16
+[08-Aug-2026 22:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php on line 23
+[08-Aug-2026 22:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php on line 18
+[14-Aug-2026 11:43:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\ApiBasedImplementation\Contracts\ApiBasedModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModel.php on line 23
+[14-Aug-2026 11:43:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ModelMetadataDirectoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiBasedModelMetadataDirectory.php on line 21
+[14-Aug-2026 11:43:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\AbstractProvider' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/AbstractApiProvider.php on line 16
+[14-Aug-2026 11:43:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/GenerateTextApiBasedProviderAvailability.php on line 23
+[14-Aug-2026 11:43:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Contracts\ProviderAvailabilityInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/ListModelsApiBasedProviderAvailability.php on line 18

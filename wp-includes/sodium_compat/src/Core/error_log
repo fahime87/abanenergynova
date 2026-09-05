@@ -1,0 +1,1008 @@
+[13-Feb-2026 15:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[13-Feb-2026 15:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[13-Feb-2026 15:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[13-Feb-2026 15:40:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[13-Feb-2026 15:40:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[13-Feb-2026 15:40:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[13-Feb-2026 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[13-Feb-2026 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[13-Feb-2026 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[13-Feb-2026 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[13-Feb-2026 15:40:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[13-Feb-2026 15:40:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[13-Feb-2026 15:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[13-Feb-2026 15:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[13-Feb-2026 15:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[13-Feb-2026 15:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[13-Feb-2026 15:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[13-Feb-2026 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[13-Feb-2026 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[13-Feb-2026 15:46:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[13-Feb-2026 15:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[13-Feb-2026 15:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[13-Feb-2026 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[13-Feb-2026 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[13-Feb-2026 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[13-Feb-2026 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[13-Feb-2026 15:46:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[13-Feb-2026 15:46:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[13-Feb-2026 15:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[13-Feb-2026 15:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[13-Feb-2026 15:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[13-Feb-2026 15:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[23-Feb-2026 20:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[23-Feb-2026 20:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[23-Feb-2026 20:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[23-Feb-2026 20:05:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[23-Feb-2026 20:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[23-Feb-2026 20:05:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[23-Feb-2026 20:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[23-Feb-2026 20:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[23-Feb-2026 20:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[23-Feb-2026 20:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[23-Feb-2026 20:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[23-Feb-2026 20:05:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[23-Feb-2026 20:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[23-Feb-2026 20:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[23-Feb-2026 20:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[23-Feb-2026 20:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[23-Feb-2026 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[23-Feb-2026 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[23-Feb-2026 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[23-Feb-2026 20:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[23-Feb-2026 20:10:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[23-Feb-2026 20:10:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[23-Feb-2026 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[23-Feb-2026 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[23-Feb-2026 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[23-Feb-2026 20:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[23-Feb-2026 20:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[23-Feb-2026 20:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[23-Feb-2026 20:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[23-Feb-2026 20:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[23-Feb-2026 20:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[23-Feb-2026 20:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[24-Jun-2026 08:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[24-Jun-2026 08:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[24-Jun-2026 08:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[24-Jun-2026 08:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[24-Jun-2026 08:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[24-Jun-2026 08:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[24-Jun-2026 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[24-Jun-2026 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[24-Jun-2026 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[24-Jun-2026 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[24-Jun-2026 08:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[24-Jun-2026 08:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[24-Jun-2026 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[24-Jun-2026 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[24-Jun-2026 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[24-Jun-2026 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[24-Jun-2026 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[24-Jun-2026 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[24-Jun-2026 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[24-Jun-2026 09:03:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[24-Jun-2026 09:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[24-Jun-2026 09:03:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[24-Jun-2026 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[24-Jun-2026 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[24-Jun-2026 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[24-Jun-2026 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[24-Jun-2026 09:03:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[24-Jun-2026 09:03:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[24-Jun-2026 09:03:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[24-Jun-2026 09:03:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[24-Jun-2026 09:03:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[24-Jun-2026 09:03:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[06-Jul-2026 20:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[06-Jul-2026 20:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[06-Jul-2026 20:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[06-Jul-2026 20:06:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[06-Jul-2026 20:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[06-Jul-2026 20:06:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2026 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2026 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[06-Jul-2026 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[06-Jul-2026 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[06-Jul-2026 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[06-Jul-2026 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[06-Jul-2026 20:06:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[06-Jul-2026 20:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[06-Jul-2026 20:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[06-Jul-2026 20:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[06-Jul-2026 20:12:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[06-Jul-2026 20:12:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[06-Jul-2026 20:12:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[06-Jul-2026 20:12:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[06-Jul-2026 20:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[06-Jul-2026 20:12:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2026 20:13:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2026 20:13:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[06-Jul-2026 20:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[06-Jul-2026 20:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[06-Jul-2026 20:13:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[06-Jul-2026 20:13:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[06-Jul-2026 20:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[06-Jul-2026 20:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[06-Jul-2026 20:13:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[06-Jul-2026 20:13:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[10-Jul-2026 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[10-Jul-2026 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[10-Jul-2026 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[10-Jul-2026 08:11:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[10-Jul-2026 08:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[10-Jul-2026 08:12:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[10-Jul-2026 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[10-Jul-2026 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[10-Jul-2026 08:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[10-Jul-2026 08:12:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[10-Jul-2026 08:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[10-Jul-2026 08:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[10-Jul-2026 08:12:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[10-Jul-2026 08:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[10-Jul-2026 08:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[10-Jul-2026 08:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[10-Jul-2026 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[10-Jul-2026 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[10-Jul-2026 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[10-Jul-2026 08:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[10-Jul-2026 08:17:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[10-Jul-2026 08:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[10-Jul-2026 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[10-Jul-2026 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[10-Jul-2026 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[10-Jul-2026 08:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[10-Jul-2026 08:17:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[10-Jul-2026 08:17:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[10-Jul-2026 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[10-Jul-2026 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[10-Jul-2026 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[10-Jul-2026 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[22-Jul-2026 23:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[22-Jul-2026 23:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[22-Jul-2026 23:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[22-Jul-2026 23:10:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[22-Jul-2026 23:10:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[22-Jul-2026 23:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[22-Jul-2026 23:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[22-Jul-2026 23:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[22-Jul-2026 23:10:25 UTC] PHP Fatal err[05-Aug-2026 05:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[05-Aug-2026 05:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2026 05:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[05-Aug-2026 05:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[05-Aug-2026 05:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[05-Aug-2026 05:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[05-Aug-2026 05:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[05-Aug-2026 05:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[05-Aug-2026 05:51:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[05-Aug-2026 05:51:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[05-Aug-2026 05:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[05-Aug-2026 05:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2026 05:51:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[05-Aug-2026 05:51:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[05-Aug-2026 05:51:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[05-Aug-2026 05:51:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[08-Aug-2026 22:39:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[08-Aug-2026 22:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[08-Aug-2026 22:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[08-Aug-2026 22:39:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[08-Aug-2026 22:39:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[08-Aug-2026 22:39:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[08-Aug-2026 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[08-Aug-2026 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[08-Aug-2026 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[08-Aug-2026 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[08-Aug-2026 22:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[08-Aug-2026 22:39:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[08-Aug-2026 22:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[08-Aug-2026 22:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[08-Aug-2026 22:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[08-Aug-2026 22:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[08-Aug-2026 22:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[08-Aug-2026 22:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[08-Aug-2026 22:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[08-Aug-2026 22:45:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[08-Aug-2026 22:45:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[08-Aug-2026 22:45:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[08-Aug-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[08-Aug-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[08-Aug-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[08-Aug-2026 22:45:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[08-Aug-2026 22:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[08-Aug-2026 22:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[08-Aug-2026 22:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[08-Aug-2026 22:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[08-Aug-2026 22:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[08-Aug-2026 22:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[14-Aug-2026 11:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[14-Aug-2026 11:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[14-Aug-2026 11:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[14-Aug-2026 11:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[14-Aug-2026 11:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[14-Aug-2026 11:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[14-Aug-2026 11:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[14-Aug-2026 11:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[14-Aug-2026 11:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[14-Aug-2026 11:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[14-Aug-2026 11:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[14-Aug-2026 11:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[14-Aug-2026 11:46:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[14-Aug-2026 11:46:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[14-Aug-2026 11:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[14-Aug-2026 11:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[14-Aug-2026 11:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS128L.php on line 10
+[14-Aug-2026 11:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_AES' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AEGIS256.php on line 10
+[14-Aug-2026 11:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/AES.php on line 14
+[14-Aug-2026 11:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[14-Aug-2026 11:52:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[14-Aug-2026 11:52:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[14-Aug-2026 11:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[14-Aug-2026 11:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[14-Aug-2026 11:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[14-Aug-2026 11:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[14-Aug-2026 11:53:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[14-Aug-2026 11:53:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[14-Aug-2026 11:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[14-Aug-2026 11:53:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[14-Aug-2026 11:53:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[14-Aug-2026 11:53:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10

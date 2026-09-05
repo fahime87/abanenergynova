@@ -1,0 +1,152 @@
+[13-Feb-2026 15:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[13-Feb-2026 15:37:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[13-Feb-2026 15:44:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[13-Feb-2026 15:44:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[23-Feb-2026 20:02:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[23-Feb-2026 20:02:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[23-Feb-2026 20:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[23-Feb-2026 20:08:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[24-Jun-2026 08:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[24-Jun-2026 08:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[24-Jun-2026 09:01:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[24-Jun-2026 09:01:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[06-Jul-2026 20:03:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[06-Jul-2026 20:03:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[06-Jul-2026 20:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[06-Jul-2026 20:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[10-Jul-2026 08:09:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[10-Jul-2026 08:09:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[10-Jul-2026 08:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[10-Jul-2026 08:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[22-Jul-2026 23:07:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[22-Jul-2026 23:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[22-Jul-2026 23:13:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[22-Jul-2026 23:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[27-Jul-2026 15:19:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 143
+[27-Jul-2026 15:19:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[27-Jul-2026 15:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/[05-Aug-2026 05:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[05-Aug-2026 05:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[08-Aug-2026 22:35:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[08-Aug-2026 22:35:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[08-Aug-2026 22:42:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[08-Aug-2026 22:42:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[14-Aug-2026 11:40:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[14-Aug-2026 11:40:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[14-Aug-2026 11:50:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[14-Aug-2026 11:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38
+[17-Aug-2026 11:55:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/class-wp-html-processor.php on line 144
+[17-Aug-2026 11:55:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Token_Map' not found in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/html-api/html5-named-character-references.php on line 38

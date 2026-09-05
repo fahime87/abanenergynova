@@ -1,0 +1,12 @@
+[05-Aug-2026 05:49:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Common\Contracts\WithJsonSchemaInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php on line 13
+[08-Aug-2026 22:37:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Common\Contracts\WithJsonSchemaInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php on line 13
+[14-Aug-2026 11:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Common\Contracts\WithJsonSchemaInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Contracts/RequestAuthenticationInterface.php on line 13

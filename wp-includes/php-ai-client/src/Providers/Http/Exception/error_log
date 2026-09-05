@@ -1,0 +1,60 @@
+[05-Aug-2026 05:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php on line 17
+[05-Aug-2026 05:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php on line 17
+[05-Aug-2026 05:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\InvalidArgumentException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php on line 18
+[05-Aug-2026 05:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php on line 16
+[05-Aug-2026 05:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php on line 17
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\InvalidArgumentException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php on line 18
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php on line 17
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php on line 17
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php on line 16
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php on line 17
+[14-Aug-2026 11:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\InvalidArgumentException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ClientException.php on line 18
+[14-Aug-2026 11:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/NetworkException.php on line 17
+[14-Aug-2026 11:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/RedirectException.php on line 17
+[14-Aug-2026 11:43:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ResponseException.php on line 16
+[14-Aug-2026 11:43:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\Exception\RuntimeException' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/Exception/ServerException.php on line 17

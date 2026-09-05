@@ -1,0 +1,192 @@
+[08-Aug-2026 22:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\CompositeRule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/all.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/all.php on line 5
+[08-Aug-2026 22:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\CompositeRule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/any.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/any.php on line 5
+[08-Aug-2026 22:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/date.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/date.php on line 5
+[08-Aug-2026 22:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/dayofweek.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/dayofweek.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/email.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/enum.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/enum.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/file.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/file.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxdate.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxdate.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxfilesize.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxfilesize.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxitems.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxitems.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxlength.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxlength.php on line 5
+[08-Aug-2026 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxnumber.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/mindate.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/mindate.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minfilesize.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minfilesize.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minitems.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minitems.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minlength.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minlength.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minnumber.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/number.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/number.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/required.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/required.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/requiredfile.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/requiredfile.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/stepnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/stepnumber.php on line 5
+[08-Aug-2026 22:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/tel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/tel.php on line 5
+[08-Aug-2026 22:46:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/time.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/time.php on line 5
+[08-Aug-2026 22:46:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/url.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/url.php on line 5
+[14-Aug-2026 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\CompositeRule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/all.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/all.php on line 5
+[14-Aug-2026 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\CompositeRule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/any.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/any.php on line 5
+[14-Aug-2026 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/date.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/date.php on line 5
+[14-Aug-2026 11:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/dayofweek.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/dayofweek.php on line 5
+[14-Aug-2026 11:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/email.php on line 5
+[14-Aug-2026 11:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/enum.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/enum.php on line 5
+[14-Aug-2026 11:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/file.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/file.php on line 5
+[14-Aug-2026 11:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxdate.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxdate.php on line 5
+[14-Aug-2026 11:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxfilesize.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxfilesize.php on line 5
+[14-Aug-2026 11:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxitems.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxitems.php on line 5
+[14-Aug-2026 11:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxlength.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxlength.php on line 5
+[14-Aug-2026 11:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/maxnumber.php on line 5
+[14-Aug-2026 11:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/mindate.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/mindate.php on line 5
+[14-Aug-2026 11:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minfilesize.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minfilesize.php on line 5
+[14-Aug-2026 11:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minitems.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minitems.php on line 5
+[14-Aug-2026 11:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minlength.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minlength.php on line 5
+[14-Aug-2026 11:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/minnumber.php on line 5
+[14-Aug-2026 11:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/number.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/number.php on line 5
+[14-Aug-2026 11:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/required.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/required.php on line 5
+[14-Aug-2026 11:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/requiredfile.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/requiredfile.php on line 5
+[14-Aug-2026 11:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/stepnumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/stepnumber.php on line 5
+[14-Aug-2026 11:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/tel.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/tel.php on line 5
+[14-Aug-2026 11:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/time.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/time.php on line 5
+[14-Aug-2026 11:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Contactable\SWV\Rule' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/url.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/swv/php/rules/url.php on line 5

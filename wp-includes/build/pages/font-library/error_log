@@ -1,0 +1,24 @@
+[05-Aug-2026 05:46:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317
+[05-Aug-2026 05:46:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php:299
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php on line 299
+[08-Aug-2026 22:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php:299
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php on line 299
+[08-Aug-2026 22:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317
+[14-Aug-2026 11:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php:299
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page-wp-admin.php on line 299
+[14-Aug-2026 11:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317

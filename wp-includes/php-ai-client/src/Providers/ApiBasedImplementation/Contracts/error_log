@@ -1,0 +1,12 @@
+[05-Aug-2026 05:50:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Models\Contracts\ModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php on line 16
+[08-Aug-2026 22:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Models\Contracts\ModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php on line 16
+[14-Aug-2026 11:43:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Models\Contracts\ModelInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php on line 16

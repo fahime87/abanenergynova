@@ -1,0 +1,24 @@
+[05-Aug-2026 05:50:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php on line 13
+[05-Aug-2026 05:50:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php on line 13
+[08-Aug-2026 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php on line 13
+[08-Aug-2026 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php on line 13
+[14-Aug-2026 11:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/NetworkExceptionInterface.php on line 13
+[14-Aug-2026 11:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Client\ClientExceptionInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Client/RequestExceptionInterface.php on line 13

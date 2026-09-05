@@ -1,0 +1,223 @@
+[13-Feb-2026 15:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[13-Feb-2026 15:39:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[13-Feb-2026 15:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[13-Feb-2026 15:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[13-Feb-2026 15:46:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[13-Feb-2026 15:46:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[23-Feb-2026 20:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[23-Feb-2026 20:05:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[23-Feb-2026 20:05:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[23-Feb-2026 20:10:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[23-Feb-2026 20:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[23-Feb-2026 20:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[24-Jun-2026 08:58:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jun-2026 08:58:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jun-2026 08:58:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[24-Jun-2026 09:02:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[24-Jun-2026 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[24-Jun-2026 09:03:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[06-Jul-2026 20:06:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[06-Jul-2026 20:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[06-Jul-2026 20:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[06-Jul-2026 20:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[06-Jul-2026 20:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[06-Jul-2026 20:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[10-Jul-2026 08:11:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[10-Jul-2026 08:11:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[10-Jul-2026 08:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[10-Jul-2026 08:17:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[10-Jul-2026 08:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[10-Jul-2026 08:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[22-Jul-2026 23:09:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2026 23:10:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[22-Jul-2026 23:10:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[22-Jul-2026 23:15:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[22-Jul-2026 23:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[22-Jul-2026 23:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[27-Jul-2026 15:22:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[27-Jul-2026 15:22:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[27-Jul-2026 15:22:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[27-Jul-2026 15:28:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[27-Jul-2026 15:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/w[05-Aug-2026 05:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[05-Aug-2026 05:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[05-Aug-2026 05:51:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[08-Aug-2026 22:39:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Aug-2026 22:39:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Aug-2026 22:39:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[08-Aug-2026 22:44:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[08-Aug-2026 22:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[08-Aug-2026 22:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[14-Aug-2026 11:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[14-Aug-2026 11:46:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[14-Aug-2026 11:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4
+[14-Aug-2026 11:52:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[14-Aug-2026 11:52:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[14-Aug-2026 11:52:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_File' not found in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/sodium_compat/namespaced/File.php on line 4

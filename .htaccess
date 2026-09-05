@@ -1,0 +1,44 @@
+# ===============================
+# Safe Anti-Bot + Disable XMLRPC
+# ===============================
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# اجازه به موتورهای جستجو معتبر
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|duckduckbot|yandexbot|baiduspider) [NC]
+RewriteRule .* - [L]
+
+# مسدودسازی ربات‌ها و اسکنرهای مخرب
+RewriteCond %{HTTP_USER_AGENT} (ahrefs|semrush|mj12bot|dotbot|petalbot|bytespider|serpstat|curl|wget|python|go-http-client|libwww-perl|nikto|sqlmap|nmap|masscan|zgrab) [NC]
+RewriteRule .* - [F,L]
+</IfModule>
+
+# بستن xmlrpc وردپرس (بدون ایجاد 500)
+<Files "xmlrpc.php">
+Require all denied
+</Files>
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN LiteSpeed
+# دستورالعمل‌های (خطوط) بین "BEGIN LiteSpeed" و "END LiteSpeed"
+# به طور پویا تولید شده‌اند، و فقط باید به وسیلهٔ صافی‌های وردرپرس ویرایش شوند.
+# هر تغییری در دستورالعمل‌های بین این نشان‌گرها بازنویشی خواهند شد.
+<IfModule Litespeed>
+	SetEnv noabort 1
+</IfModule>
+# END LiteSpeed

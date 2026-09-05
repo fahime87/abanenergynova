@@ -1,0 +1,36 @@
+[05-Aug-2026 05:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php on line 57
+[05-Aug-2026 05:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModelMetadataDirectory' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php on line 22
+[05-Aug-2026 05:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php on line 64
+[08-Aug-2026 22:38:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php on line 57
+[08-Aug-2026 22:38:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModelMetadataDirectory' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php on line 22
+[08-Aug-2026 22:38:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php on line 64
+[14-Aug-2026 11:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleImageGenerationModel.php on line 57
+[14-Aug-2026 11:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModelMetadataDirectory' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php on line 22
+[14-Aug-2026 11:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Providers\ApiBasedImplementation\AbstractApiBasedModel' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleTextGenerationModel.php on line 64

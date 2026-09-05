@@ -1,0 +1,16 @@
+[08-Aug-2026 22:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[08-Aug-2026 22:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[14-Aug-2026 11:53:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[14-Aug-2026 11:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3

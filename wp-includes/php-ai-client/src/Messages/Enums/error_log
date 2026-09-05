@@ -1,0 +1,48 @@
+[05-Aug-2026 05:50:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php on line 17
+[05-Aug-2026 05:50:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php on line 23
+[05-Aug-2026 05:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php on line 21
+[05-Aug-2026 05:50:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php on line 17
+[08-Aug-2026 22:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php on line 17
+[08-Aug-2026 22:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php on line 21
+[08-Aug-2026 22:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php on line 17
+[08-Aug-2026 22:37:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php on line 23
+[14-Aug-2026 11:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartChannelEnum.php on line 17
+[14-Aug-2026 11:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessagePartTypeEnum.php on line 21
+[14-Aug-2026 11:43:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/MessageRoleEnum.php on line 17
+[14-Aug-2026 11:43:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/Enums/ModalityEnum.php on line 23

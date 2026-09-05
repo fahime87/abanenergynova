@@ -1,0 +1,616 @@
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[13-Feb-2026 15:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[13-Feb-2026 15:35:08 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[13-Feb-2026 15:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[13-Feb-2026 15:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[13-Feb-2026 15:42:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[13-Feb-2026 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[13-Feb-2026 15:42:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[13-Feb-2026 15:42:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[23-Feb-2026 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[23-Feb-2026 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[23-Feb-2026 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[23-Feb-2026 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[23-Feb-2026 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[23-Feb-2026 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[23-Feb-2026 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[23-Feb-2026 20:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[23-Feb-2026 20:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[23-Feb-2026 20:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[23-Feb-2026 20:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[23-Feb-2026 20:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[23-Feb-2026 20:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[23-Feb-2026 20:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[23-Feb-2026 20:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[23-Feb-2026 20:07:26 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[23-Feb-2026 20:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[23-Feb-2026 20:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[24-Jun-2026 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[24-Jun-2026 08:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[24-Jun-2026 08:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[24-Jun-2026 09:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[24-Jun-2026 09:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[24-Jun-2026 09:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[24-Jun-2026 09:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[24-Jun-2026 09:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[24-Jun-2026 09:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[24-Jun-2026 09:00:05 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[24-Jun-2026 09:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[24-Jun-2026 09:00:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[06-Jul-2026 20:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[06-Jul-2026 20:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[06-Jul-2026 20:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[06-Jul-2026 20:01:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[06-Jul-2026 20:01:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[06-Jul-2026 20:01:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[06-Jul-2026 20:01:25 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[06-Jul-2026 20:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[06-Jul-2026 20:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[06-Jul-2026 20:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[06-Jul-2026 20:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[06-Jul-2026 20:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[06-Jul-2026 20:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[06-Jul-2026 20:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[06-Jul-2026 20:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[06-Jul-2026 20:08:42 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[06-Jul-2026 20:08:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[06-Jul-2026 20:08:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[10-Jul-2026 08:07:50 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[10-Jul-2026 08:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[10-Jul-2026 08:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[10-Jul-2026 08:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[10-Jul-2026 08:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[10-Jul-2026 08:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[10-Jul-2026 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[22-Jul-2026 23:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[22-Jul-2026 23:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[22-Jul-2026 23:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[22-Jul-2026 23:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[22-Jul-2026 23:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[22-Jul-2026 23:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[22-Jul-2026 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[22-Jul-2026 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[22-Jul-2026 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[22-Jul-2026 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[22-Jul-2026 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[22-Jul-2026 23:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[22-Jul-2026 23:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[27-Jul-2026 15:18:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[27-J[05-Aug-2026 05:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[05-Aug-2026 05:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[05-Aug-2026 05:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[05-Aug-2026 05:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[05-Aug-2026 05:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[05-Aug-2026 05:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[05-Aug-2026 05:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[05-Aug-2026 05:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[05-Aug-2026 05:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[08-Aug-2026 22:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[08-Aug-2026 22:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[08-Aug-2026 22:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[08-Aug-2026 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[08-Aug-2026 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[08-Aug-2026 22:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[08-Aug-2026 22:41:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[08-Aug-2026 22:41:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[14-Aug-2026 11:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[14-Aug-2026 11:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[14-Aug-2026 11:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[14-Aug-2026 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[14-Aug-2026 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[14-Aug-2026 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[14-Aug-2026 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[14-Aug-2026 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[14-Aug-2026 11:38:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25
+[14-Aug-2026 11:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 17
+[14-Aug-2026 11:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 13
+[14-Aug-2026 11:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 17
+[14-Aug-2026 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/File.php on line 15
+[14-Aug-2026 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 24
+[14-Aug-2026 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 25
+[14-Aug-2026 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 21
+[14-Aug-2026 11:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 19
+[14-Aug-2026 11:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 25

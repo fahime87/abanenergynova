@@ -1,0 +1,48 @@
+[05-Aug-2026 05:50:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php on line 38
+[05-Aug-2026 05:50:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php on line 26
+[05-Aug-2026 05:50:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php on line 18
+[05-Aug-2026 05:50:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php on line 19
+[08-Aug-2026 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php on line 26
+[08-Aug-2026 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php on line 38
+[08-Aug-2026 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php on line 19
+[08-Aug-2026 22:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php on line 18
+[14-Aug-2026 11:43:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/Message.php on line 26
+[14-Aug-2026 11:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/MessagePart.php on line 38
+[14-Aug-2026 11:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/ModelMessage.php on line 19
+[14-Aug-2026 11:43:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Messages\DTO\Message' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Messages/DTO/UserMessage.php on line 18

@@ -1,0 +1,12 @@
+[05-Aug-2026 05:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php on line 24
+[08-Aug-2026 22:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php on line 24
+[14-Aug-2026 11:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Operations/DTO/GenerativeAiOperation.php on line 24

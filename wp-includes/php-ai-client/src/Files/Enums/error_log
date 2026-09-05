@@ -1,0 +1,24 @@
+[05-Aug-2026 05:50:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php on line 19
+[05-Aug-2026 05:50:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php on line 17
+[08-Aug-2026 22:37:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php on line 17
+[08-Aug-2026 22:37:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php on line 19
+[14-Aug-2026 11:43:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/FileTypeEnum.php on line 17
+[14-Aug-2026 11:43:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Files/Enums/MediaOrientationEnum.php on line 19

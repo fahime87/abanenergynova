@@ -1,0 +1,68 @@
+[08-Aug-2026 22:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[08-Aug-2026 22:45:53 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[08-Aug-2026 22:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[08-Aug-2026 22:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/file.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 92
+[08-Aug-2026 22:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[08-Aug-2026 22:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[08-Aug-2026 22:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 101
+[08-Aug-2026 22:45:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[08-Aug-2026 22:45:57 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[08-Aug-2026 22:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[14-Aug-2026 11:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[14-Aug-2026 11:53:59 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[14-Aug-2026 11:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[14-Aug-2026 11:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/file.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 92
+[14-Aug-2026 11:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[14-Aug-2026 11:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[14-Aug-2026 11:54:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 101
+[14-Aug-2026 11:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[14-Aug-2026 11:54:06 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[14-Aug-2026 11:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

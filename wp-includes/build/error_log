@@ -1,0 +1,39 @@
+[05-Aug-2026 05:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/build/pages.php(9): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317
+[05-Aug-2026 05:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/routes.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/routes.php on line 103
+[05-Aug-2026 05:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includes_url() in /home/abanener/public_html/wp-includes/build/constants.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/constants.php on line 13
+[08-Aug-2026 22:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includes_url() in /home/abanener/public_html/wp-includes/build/constants.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/constants.php on line 13
+[08-Aug-2026 22:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/build/pages.php(9): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317
+[08-Aug-2026 22:34:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/routes.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/routes.php on line 103
+[14-Aug-2026 11:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function includes_url() in /home/abanener/public_html/wp-includes/build/constants.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/constants.php on line 13
+[14-Aug-2026 11:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php:317
+Stack trace:
+#0 /home/abanener/public_html/wp-includes/build/pages.php(9): require_once()
+#1 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/pages/font-library/page.php on line 317
+[14-Aug-2026 11:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/abanener/public_html/wp-includes/build/routes.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/build/routes.php on line 103

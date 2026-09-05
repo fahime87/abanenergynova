@@ -1,0 +1,24 @@
+[05-Aug-2026 05:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php on line 29
+[05-Aug-2026 05:49:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php on line 65
+[08-Aug-2026 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php on line 29
+[08-Aug-2026 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php on line 65
+[14-Aug-2026 11:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php on line 29
+[14-Aug-2026 11:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractEnum' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Models/Enums/OptionEnum.php on line 65

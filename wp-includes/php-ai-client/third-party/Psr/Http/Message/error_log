@@ -1,0 +1,36 @@
+[05-Aug-2026 05:50:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php on line 43
+[05-Aug-2026 05:50:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php on line 20
+[05-Aug-2026 05:50:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php on line 24
+[08-Aug-2026 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php on line 24
+[08-Aug-2026 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php on line 20
+[08-Aug-2026 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php on line 43
+[14-Aug-2026 11:45:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/RequestInterface.php on line 24
+[14-Aug-2026 11:45:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\MessageInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ResponseInterface.php on line 20
+[14-Aug-2026 11:45:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Psr/Http/Message/ServerRequestInterface.php on line 43

@@ -1,0 +1,12 @@
+[05-Aug-2026 05:49:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Http\Contracts\HttpTransporterInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php on line 29
+[08-Aug-2026 22:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Http\Contracts\HttpTransporterInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php on line 29
+[14-Aug-2026 11:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClient\Providers\Http\Contracts\HttpTransporterInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Providers/Http/HttpTransporter.php on line 29

@@ -1,0 +1,24 @@
+[05-Aug-2026 05:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestFactoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php on line 30
+[05-Aug-2026 05:50:40 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use "Nyholm\Psr7\Factory\HttplugFactory" as the "php-http/message-factory" package is not installed. Try running "composer require php-http/message-factory". Note that this package is deprecated, use "psr/http-factory" instead in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php on line 18
+[08-Aug-2026 22:38:44 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use "Nyholm\Psr7\Factory\HttplugFactory" as the "php-http/message-factory" package is not installed. Try running "composer require php-http/message-factory". Note that this package is deprecated, use "psr/http-factory" instead in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php on line 18
+[08-Aug-2026 22:38:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestFactoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php on line 30
+[14-Aug-2026 11:45:01 UTC] PHP Fatal error:  Uncaught LogicException: You cannot use "Nyholm\Psr7\Factory\HttplugFactory" as the "php-http/message-factory" package is not installed. Try running "composer require php-http/message-factory". Note that this package is deprecated, use "psr/http-factory" instead in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/HttplugFactory.php on line 18
+[14-Aug-2026 11:45:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Psr\Http\Message\RequestFactoryInterface' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Nyholm/Psr7/Factory/Psr17Factory.php on line 30

@@ -1,0 +1,36 @@
+[05-Aug-2026 05:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php on line 19
+[05-Aug-2026 05:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php on line 48
+[05-Aug-2026 05:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php on line 18
+[08-Aug-2026 22:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php on line 48
+[08-Aug-2026 22:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php on line 18
+[08-Aug-2026 22:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php on line 19
+[14-Aug-2026 11:44:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonClassesStrategy.php on line 48
+[14-Aug-2026 11:44:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/CommonPsr17ClassesStrategy.php on line 18
+[14-Aug-2026 11:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'WordPress\AiClientDependencies\Http\Discovery\Strategy\DiscoveryStrategy' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Strategy/PuliBetaStrategy.php on line 19

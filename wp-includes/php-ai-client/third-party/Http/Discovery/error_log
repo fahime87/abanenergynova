@@ -1,0 +1,24 @@
+[05-Aug-2026 05:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php on line 13
+[05-Aug-2026 05:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php on line 18
+[08-Aug-2026 22:38:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php on line 18
+[08-Aug-2026 22:38:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php on line 13
+[14-Aug-2026 11:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr17FactoryDiscovery.php on line 18
+[14-Aug-2026 11:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClientDependencies\Http\Discovery\ClassDiscovery' not found in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/third-party/Http/Discovery/Psr18ClientDiscovery.php on line 13

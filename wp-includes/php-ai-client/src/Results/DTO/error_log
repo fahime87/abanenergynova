@@ -1,0 +1,36 @@
+[05-Aug-2026 05:50:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php on line 38
+[05-Aug-2026 05:50:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php on line 24
+[05-Aug-2026 05:50:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php on line 27
+[08-Aug-2026 22:38:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php on line 24
+[08-Aug-2026 22:38:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php on line 38
+[08-Aug-2026 22:38:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php on line 27
+[14-Aug-2026 11:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/Candidate.php on line 24
+[14-Aug-2026 11:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/GenerativeAiResult.php on line 38
+[14-Aug-2026 11:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WordPress\AiClient\Common\AbstractDataTransferObject' not found in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abanener/public_html/wp-includes/php-ai-client/src/Results/DTO/TokenUsage.php on line 27
